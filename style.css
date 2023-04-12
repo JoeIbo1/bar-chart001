@@ -13,6 +13,7 @@ grid-template-columns: repeat(40, 1fr);
 gap: 3px;
 align-items: end;
 background-color: blue;
+height: 50vh;
 }
 
 .bar {
